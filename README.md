@@ -1,3 +1,4 @@
+> this package is deprecated please use: https://github.com/fevrok/laravel-translatable
 # tarjama
 
 It's a Laravel model columns translation manager
